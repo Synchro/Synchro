@@ -6,7 +6,8 @@ When I'm not skiing, I'm working on [CLUBZERØ](https://www.clubzero.co), [smart
 
 If my code or answers have helped you, please [**sponsor me on GitHub**](https://github.com/sponsors/Synchro), [Patreon](https://www.patreon.com/marcusbointon), or [get your company to sponsor Open Source on TideLift](https://tidelift.com/subscription/pkg/packagist-phpmailer-phpmailer?utm_source=packagist-phpmailer-phpmailer&utm_medium=referral&utm_campaign=enterprise&utm_term=repo).
 
-- [🦆 Follow me on Twitter](https://twitter.com/SynchroM), or send me a message on there
+- 🐘 Follow `@Synchro@phpc.social` [on Mastodon](https://phpc.social/Synchro)
+- 🦆 Follow `@SynchroM` [on Twitter](https://twitter.com/SynchroM) (deprecated)
 - ⁉️ Ask me a question on [Stack Overflow](https://stackoverflow.com/users/333340/synchro)
 - [📘 Read my blog](https://marcus.bointon.com/)
 - 🎸 Write a song with me – I like writing songs about open source, like about [Laravel](https://marcus.bointon.com/the-good-ship-laravel/) and [Tailwind](https://marcus.bointon.com/tailwind-the-song/), and I'm looking for collaborators, especially people that can sing!
