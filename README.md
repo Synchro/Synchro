@@ -10,7 +10,7 @@ If my code or answers have helped you, please [**sponsor me on GitHub**](https:/
 - 🦆 Follow `@SynchroM` [on Twitter](https://twitter.com/SynchroM) (deprecated)
 - ⁉️ Ask me a question on [Stack Overflow](https://stackoverflow.com/users/333340/synchro)
 - [📘 Read my blog](https://marcus.bointon.com/)
-- 🎸 Write a song with me – I like writing songs about open source, like about [Laravel](https://marcus.bointon.com/the-good-ship-laravel/) and [Tailwind](https://marcus.bointon.com/tailwind-the-song/), and I'm looking for collaborators, especially people that can sing!
+- 🎸 Write a song with me – I like writing songs about open source, like about [Laravel](https://marcus.bointon.com/the-good-ship-laravel/), [Tailwind](https://marcus.bointon.com/tailwind-the-song/), [Blue Teams](https://marcus.bointon.com/blue-team-the-song/) and I'm looking for collaborators, especially people that can sing!
 - ⛷ Come skiing with me! Really! If you happen to be skiing near Combloux, Megève, St Gervais, Les Contamines, Flaine, Les Carroz, Chamonix, Morzine/Avoriaz/Les Gets, Samoëns, La Clusaz, drop me a note and I'll try not to scare you too much 😅
 
 ![Marcus' github stats](https://github-readme-stats.vercel.app/api?username=synchro&show_icons=true&theme=blue-green)
