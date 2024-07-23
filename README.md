@@ -6,6 +6,8 @@ When I'm not skiing, I'm working on [CLUBZERØ](https://www.clubzero.co), [smart
 
 If my code or answers have helped you, please [**sponsor me on GitHub**](https://github.com/sponsors/Synchro), [Patreon](https://www.patreon.com/marcusbointon), or [get your company to sponsor Open Source on TideLift](https://tidelift.com/subscription/pkg/packagist-phpmailer-phpmailer?utm_source=packagist-phpmailer-phpmailer&utm_medium=referral&utm_campaign=enterprise&utm_term=repo).
 
+Buy my book ["The HTTP/3 book"](https://leanpub.com/thehttp3book)!
+
 - 🐘 Follow `@Synchro@phpc.social` [on Mastodon](https://phpc.social/Synchro)
 - 🦆 Follow `@SynchroM` [on Twitter](https://twitter.com/SynchroM) (deprecated)
 - ⁉️ Ask me a question on [Stack Overflow](https://stackoverflow.com/users/333340/synchro)
